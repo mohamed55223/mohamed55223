@@ -14,7 +14,7 @@ Here are some of the projects:
 1. Reinforcement-OpenAI-Gym-CartPole : a deep reinforcement learning algorithm to solve the cart and pole balancing problem using the OpenAI Gym environment.
 2. Time Series Analysis : Time Series Using SARIMAX Model.
 3. Question_Answering with RNN : Question-answering model using a combination of GRU layers and bilinear similarity layers.
-4. Iris-Classification :in this project, we will compare and contrast the performance of three different learning models on a common and publicly available dataset.
+4. text Analysis with Watson in NLP :in this project, Using Watson to for Hotel Review Analysis 
    
 
 ## Skills
